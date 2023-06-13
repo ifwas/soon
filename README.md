@@ -38,7 +38,7 @@ https://github.com/dreidelman/soon
 
 - ### [Vendcord](https://vencord.dev)
 
-  - find X.theme.css, , 
+  - find soon.theme.css, , 
   - click on it
   - then click the "Raw" button
   - copy the link and paste it on the "themes" tab
