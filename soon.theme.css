@@ -33,13 +33,6 @@ Do NOT modify this file if you dont know what youre doing.
 */
 @import url("https://lilytistic.github.io/external-files/iconChange.css");
 
-
-/** 
- * Replaces Emojis
- * Delete this @import if you want the regular discord emojis (Docs coming soon (maybe))
-*/
-@import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css);
-
 :root {
   /* Banners (modifiable!) */
   --banner-blur: 1; /* 1 to enabled || 0 to disable */
