@@ -36,6 +36,13 @@ https://github.com/dreidelman/soon
   - place it in the BetterDiscord themes folder || folder directory : %appdata%/betterdiscord/themes.
   - enable **soon** in the themes tab.
 
+- ### [Vendcord](https://vencord.dev)
+
+  - find X.theme.css, , 
+  - click on it
+  - then click the "Raw" button
+  - copy the link and paste it on the "themes" tab
+
 
 ## Plugin Support
 
