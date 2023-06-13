@@ -1,4 +1,4 @@
-<h1 align="center">Soon [maintained]</h1>
+<h1 align="center">Soon [maintained] (this is a slight modification for vendcord users)</h1>
 <p align="center">This is a maintained version of</p>
 <p align="center">
 https://github.com/dreidelman/soon
